@@ -1,0 +1,31 @@
+{
+  "name": "stevenlyd-tools",
+  "owner": {
+    "name": "Steven Liu"
+  },
+  "metadata": {
+    "description": "Agent workflow tools: Duet (prototype and engineer roles) and Suo (product definitions)"
+  },
+  "plugins": [
+    {
+      "name": "duet",
+      "source": {
+        "source": "github",
+        "repo": "stevenlyd-tools/duet",
+        "ref": "v0.26.2"
+      },
+      "version": "0.26.2",
+      "description": "A workflow for two roles working through coding agents: one prototypes ideas, the other engineers the chosen ones for production"
+    },
+    {
+      "name": "suo",
+      "source": {
+        "source": "github",
+        "repo": "stevenlyd-tools/suo",
+        "ref": "v0.10.0"
+      },
+      "version": "0.10.0",
+      "description": "A shuttle for thought: one decision at a time, into form."
+    }
+  ]
+}

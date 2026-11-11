@@ -1,0 +1,13 @@
+{
+  "name": "@stevenlyd-tools/plugins",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The stevenlyd-tools plugin marketplace: Duet and Suo pinned to releases",
+  "type": "module",
+  "engines": { "node": ">=22.18.0" },
+  "scripts": {
+    "write": "node scripts/marketplace.mjs --write",
+    "check": "node scripts/marketplace.mjs --check && node --test tests/*.test.mjs",
+    "verify": "node scripts/marketplace.mjs --verify"
+  }
+}
