@@ -22,9 +22,9 @@
       "source": {
         "source": "github",
         "repo": "stevenlyd-tools/suo",
-        "ref": "v0.10.0"
+        "ref": "v0.11.0"
       },
-      "version": "0.10.0",
+      "version": "0.11.0",
       "description": "A shuttle for thought: one decision at a time, into form."
     }
   ]
