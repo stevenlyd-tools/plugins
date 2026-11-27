@@ -12,9 +12,9 @@
       "source": {
         "source": "github",
         "repo": "stevenlyd-tools/duet",
-        "ref": "v0.26.2"
+        "ref": "v0.26.3"
       },
-      "version": "0.26.2",
+      "version": "0.26.3",
       "description": "A workflow for two roles working through coding agents: one prototypes ideas, the other engineers the chosen ones for production"
     },
     {

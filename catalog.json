@@ -7,7 +7,7 @@
     {
       "name": "duet",
       "repository": "stevenlyd-tools/duet",
-      "tag": "v0.26.2",
+      "tag": "v0.26.3",
       "description": "A workflow for two roles working through coding agents: one prototypes ideas, the other engineers the chosen ones for production"
     },
     {
